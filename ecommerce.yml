@@ -1,6 +1,7 @@
-token:
-  expiration_time: 86400000
-  secret: '{cipher}AQAu4mnp+tRB554f+5FKAcCtOWTuvjEjj9AAYOV/J/Brc8m7Rs+ADDGxeK7FgGPFUOc9XjqLED2OtgvqESp6XCo5YrZfZU22N6pw6rcMsEI+HURPz0/PaEmUL20B8eMe/jus8lslsAYnot0LZul8Q127hLb1PS4nkXMiP9Ivx/DLQQcJtjzKlWwMZlhKkmZkXyB8AymrLq8DvKgpnm+XGR0N12h8myB/s96a5XQgKLK73TgyCwQsOGf9INll7Jo1fMWhXaFFkknrdHKiQTC1utLZy9W/WBwiIOfO0iPESadznCxKMZ7fI2aVqROilbdYwPT6jHBhMzbnkuzJAIo9QSdQBewg4b7ByCX4t6OV39pX4wSxfxpy1UQMWnZOFlWpp6h9rxJ4g7HgbZyNp47mtwUD'
+# 공통으로 사용되는 property는 application.yml에 선언.
+# token:
+#   expiration_time: 86400000
+#   secret: '{cipher}AQAu4mnp+tRB554f+5FKAcCtOWTuvjEjj9AAYOV/J/Brc8m7Rs+ADDGxeK7FgGPFUOc9XjqLED2OtgvqESp6XCo5YrZfZU22N6pw6rcMsEI+HURPz0/PaEmUL20B8eMe/jus8lslsAYnot0LZul8Q127hLb1PS4nkXMiP9Ivx/DLQQcJtjzKlWwMZlhKkmZkXyB8AymrLq8DvKgpnm+XGR0N12h8myB/s96a5XQgKLK73TgyCwQsOGf9INll7Jo1fMWhXaFFkknrdHKiQTC1utLZy9W/WBwiIOfO0iPESadznCxKMZ7fI2aVqROilbdYwPT6jHBhMzbnkuzJAIo9QSdQBewg4b7ByCX4t6OV39pX4wSxfxpy1UQMWnZOFlWpp6h9rxJ4g7HgbZyNp47mtwUD'
 
 gateway:
   ip: 172.30.1.7
